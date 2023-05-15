@@ -1,0 +1,13 @@
+{
+  "name": "example_project",
+  "type": "package",
+  "blockId": "SzS8iav60LiOEbNuJIK3p",
+  "source": {
+    "https": "https://github.com/AshwinSampathkumarRK/example_project",
+    "ssh": "git@github.com:AshwinSampathkumarRK/example_project.git"
+  },
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
